@@ -1,0 +1,3 @@
+delay_read 1
+delay_write 1
+delay_rewind 1
